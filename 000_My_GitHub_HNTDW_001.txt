@@ -1,0 +1,1 @@
+ANOVA Has Nothing To Do With the Variance, it uses the Mean instead.
